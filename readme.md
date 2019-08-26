@@ -1,4 +1,4 @@
-# (Bike Share Trips Data
+# Bike Share Trips Data
 ## by (atheir aljahdali)
 
 In the project i will use a dataset called Bay Area Bike Share Trips Data.
