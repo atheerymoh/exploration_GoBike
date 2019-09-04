@@ -1,7 +1,7 @@
 # Bike Share Trips Data
 ## by (Atheir Aljahdali)
 
-In the project i will use a dataset called Bay Area Bike Share Trips Data. i will explore data related to bike share systems for Chicago, New York City, and Washington.
+In this project i will use a dataset called `Bay Area Bike Share Trips Data`. i will explore data related to bike share systems for Chicago, New York City, and Washington.
 
 ## Bay Area Bike Share Trips Data
 
