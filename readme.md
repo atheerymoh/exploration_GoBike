@@ -5,7 +5,7 @@ In this project i will use a dataset called `Bay Area Bike Share Trips Data`. i 
 
 ## Bay Area Bike Share Trips Data
 
-> I will be using the Bay Area Bike Share Trips Data (https://cloud.google.com/bigquery/public- data/bay-bike-share) the data in 2018
+> I will be using the Bay Area Bike Share Trips Data [Data Page](https://cloud.google.com/bigquery/public-data/bay-bike-share) the data in 2018
 ### The data files for all three cities contain the same six columns:
 ```
 Start Time
